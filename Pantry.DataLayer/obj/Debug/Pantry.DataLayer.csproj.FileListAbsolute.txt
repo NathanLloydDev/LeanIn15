@@ -1,0 +1,12 @@
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\obj\Debug\Pantry.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\Pantry.DataLayer.dll.config
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\Pantry.DataLayer.dll
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\Pantry.DataLayer.pdb
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\Pantry.DomainClasses.dll
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\Pantry.DomainClasses.pdb
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\obj\Debug\Pantry.DataLayer.dll
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DataLayer\obj\Debug\Pantry.DataLayer.pdb

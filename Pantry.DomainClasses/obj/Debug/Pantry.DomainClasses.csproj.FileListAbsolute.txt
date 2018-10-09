@@ -1,0 +1,5 @@
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DomainClasses\obj\Debug\Pantry.DomainClasses.csprojResolveAssemblyReference.cache
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DomainClasses\bin\Debug\Pantry.DomainClasses.dll
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DomainClasses\bin\Debug\Pantry.DomainClasses.pdb
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DomainClasses\obj\Debug\Pantry.DomainClasses.dll
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry.DomainClasses\obj\Debug\Pantry.DomainClasses.pdb

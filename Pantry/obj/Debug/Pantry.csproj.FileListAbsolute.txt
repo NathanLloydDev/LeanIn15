@@ -1,0 +1,6 @@
+c:\users\17954\documents\visual studio 2015\Projects\Pantry\Pantry\bin\Debug\Pantry.exe.config
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry\bin\Debug\Pantry.exe
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry\bin\Debug\Pantry.pdb
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry\obj\Debug\Pantry.csprojResolveAssemblyReference.cache
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry\obj\Debug\Pantry.exe
+C:\Users\17954\Documents\Visual Studio 2015\Projects\Pantry\Pantry\obj\Debug\Pantry.pdb
